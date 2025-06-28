@@ -11,7 +11,7 @@ A focused, high-discipline challenge to level up my AI,  Deep Learning,  and MLO
 ### ✅ Goals:
 
 1. 🔗 Finish  **Hybrid Recommendation Systems**
-   data sciecnce , ml pipeline , docker, aws , fastapi
+-   data sciecnce , ml pipeline , docker, aws , fastapi
 
 2. 🏠 Finish  **House Price Prediction System**
    -  ML pipeline ,  docker  CI/CD setup  Kubernetes (with monitoring if possible)
