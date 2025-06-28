@@ -16,6 +16,6 @@ A focused, high-discipline challenge to level up my AI,  Deep Learning,  and MLO
 2. 🏠 Finish  **House Price Prediction System**
    -  ML pipeline ,  docker  CI/CD setup  Kubernetes (with monitoring if possible)
 
-3. 📖 **"Building LLMs for Production" (Towards AI)**
+3. 📖 **"Building LLMs for Production" (Towards AI book)**
    - Read at least **150–200 pages**
    - Take notes, summarize, and reflect key concepts
