@@ -11,13 +11,10 @@ A focused, high-discipline challenge to level up my AI,  Deep Learning,  and MLO
 ### ✅ Goals:
 
 1. 🔗 Finish  **Hybrid Recommendation Systems**
-   - Explore top GitHub repos
-   - Implement + document 1 working version
+   data sciecnce , ml pipeline , docker, aws , fastapi
 
 2. 🏠 Finish  **House Price Prediction System**
-   - Build full ML pipeline
-   - Dockerize + CI/CD setup
-   - Deploy on Kubernetes (with monitoring if possible)
+   -  ML pipeline ,  docker  CI/CD setup  Kubernetes (with monitoring if possible)
 
 3. 📖 **"Building LLMs for Production" (Towards AI)**
    - Read at least **150–200 pages**
