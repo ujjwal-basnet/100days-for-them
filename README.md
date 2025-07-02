@@ -1,8 +1,7 @@
-# 100days-for-them
-10-18 hours Dailly  (dev dairy) 
+## 10-18 hours Dailly  (dev dairy) 
 
-# 🚀 100 Days (10–18 hrs/day) Challenge serious stuff 
-IDK , i am quite serious this time , i got Pretty  awsome  backlogs to cover and also be craft my resume , Write a research papers and be job ready within this 6 months , i am cooked
+# (10–18 hrs/daily) Challenge serious stuff 
+IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my previous semisters  and also i need to craft my resume , Write a research papers and be job ready within this 6 in Ai Field , so i decided to write my open dailry and log the progress and challenges
 
 
 ## 📅 This week : June 29 – July 6 (2025) 
@@ -18,3 +17,9 @@ IDK , i am quite serious this time , i got Pretty  awsome  backlogs to cover and
 3. 📖 **"Building LLMs for Production" (Towards AI book)**
    - Read at least **150–200 pages**
    - Take notes, summarize, and reflect key concepts
+
+
+## day 1 :  productive 
+## day 2 : mid productive 
+## day 3  : productive
+## day 4 :  nulll - zero productive 
