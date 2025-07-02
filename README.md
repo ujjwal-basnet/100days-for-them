@@ -1,9 +1,8 @@
 # 100days-for-them
-8-18 hours Dailly  (dev dairy) 
+10-18 hours Dailly  (dev dairy) 
 
-# 🚀 100 Days (8–18 hrs/day) Challenge
-
-A focused, high-discipline challenge to level up my AI,  Deep Learning,  and MLOps/system building skills 
+# 🚀 100 Days (10–18 hrs/day) Challenge serious stuff 
+IDK , i am quite serious this time , i got Pretty  awsome  backlogs to cover and also be craft my resume , Write a research papers and be job ready within this 6 months , i am cooked
 
 
 ## 📅 This week : June 29 – July 6 (2025) 
