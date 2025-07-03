@@ -4,22 +4,18 @@
 IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my previous semisters  and also i need to craft my resume , Write a research papers and be job ready within this 6 in Ai Field , so i decided to write my open dailry and log the progress and challenges
 
 
-## 📅 This week : June 29 – July 6 (2025) 
+# 🚀 (10–18 hrs/day) Dev Diary — AI Grind 2025
 
-### ✅ Goals:
+📅 June 29 – Dec 31, 2025  
 
-1. 🔗 Finish  **Hybrid Recommendation Systems**
--   data sciecnce , ml pipeline , docker, aws , fastapi
+---
 
-2. 🏠 Finish  **House Price Prediction System**
-   -  ML pipeline ,  docker  CI/CD setup  Kubernetes (with monitoring if possible)
+## 🧠 Current Focus (Week 1: June 30 – July 7)
 
-3. 📖 **"Building LLMs for Production" (Towards AI book)**
-   - Read at least **150–200 pages**
-   - Take notes, summarize, and reflect key concepts
+| Area         | Tasks                                  | Status |
+|--------------|-----------------------------------------|--------|
+| Recommender  | Hybrid system + pipeline + FastAPI      | 80% done    |
+| MLOps        | House price CI/CD, Docker, K8s          | idk i can complete this    |
+| LLM book  |  “LLMs for Production”  | now focusing on this      |
 
-
-## day 1 :  productive 
-## day 2 : mid productive 
-## day 3  : productive
-## day 4 :  nulll - zero productive 
+🕒 Daily Goal: 10–18 hours  
