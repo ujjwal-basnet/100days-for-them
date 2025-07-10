@@ -5,7 +5,7 @@
 
 | Habit                            | Status |
 |---------------------------------|--------|
-| Bath                 | [no bath ❌]   |
+| Bath                 | [failed ❌]   |
 | Water intake (4L)               | [no water intake ✅]   |
 | No Stupid Content      | [failed ❌]   |
 
@@ -16,7 +16,7 @@
 
 | Habit                            | Status |
 |---------------------------------|--------|
-| Bath                 | [no bath ❌]   |
+| Bath                 | [failed ❌]   |
 | Water intake (4L)               | [failed water intake ❌]   |
 | No Stupid Content      | [failed ❌]   |
 
@@ -24,11 +24,11 @@
 
 
 #### 💬 july 09 
-> ⚠️⚠️⚠️⚠️ coding  ,  freelance completed , not related to ai and ml  
+> ⚠️⚠️⚠️⚠️ coding  ,  freelance work  completed , not related to ai and ml  
 
 | Habit                            | Status |
 |---------------------------------|--------|
-| Bath                 | [no bath ❌]   |
+| Bath                 | [failed ❌]   |
 | Water intake (4L)               | [failed water intake ❌]   |
 | No Stupid Content      | [failed ❌]   |
 
