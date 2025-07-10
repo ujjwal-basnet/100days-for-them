@@ -10,7 +10,7 @@ IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my prev
 
 :
 ## 🧠 (Week 2: July 7 – July 14)  
-👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](https://github.com/ujjwal-basnet/My-Love-Letter/blob/main/Weekly-Logs/week-2.md)
+👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](https://github.com/ujjwal-basnet/My-Love-Letter/blob/main/Weekly-Logs/week2.md)
 
 | Area         | Tasks                                | Status               |
 |--------------|-------------------------------------|----------------------|
