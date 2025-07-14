@@ -6,7 +6,7 @@
 | Habit                            | Status |
 |---------------------------------|--------|
 | Bath                 | [failed ❌]   |
-| Water intake (4L)               | [no water intake ✅]   |
+| Water intake (4L)               | [water intake ✅]   |
 | No Stupid Content      | [failed ❌]   |
 
 
@@ -31,4 +31,52 @@
 | Bath                 | [failed ❌]   |
 | Water intake (4L)               | [failed water intake ❌]   |
 | No Stupid Content      | [failed ❌]   |
+
+
+
+#### 💬 july 10
+># coding  8✅✅ hours [focus on llm]
+
+| Habit                            | Status |
+|---------------------------------|--------|
+| Bath                 | [yes ✅]   |
+| Water intake (4L)               | [ water intake ✅]   |
+| No Stupid Content      | [failed ❌]   |
+
+
+
+#### 💬 july 11
+> # coding  9 hours  [focus on llm]
+
+| Habit                            | Status |
+|---------------------------------|--------|
+| Bath                 | [✅ ]   |
+| Water intake (4L)               | [yes✅]   |
+| No Stupid Content      | [failed ❌]   |
+
+
+
+#### 💬 july 12
+> ⚠️ coding 6 hours only  (failed (8-18 hrs) ❌) 
+
+| Habit                            | Status |
+|---------------------------------|--------|
+| Bath                 | [failed ❌]   |
+| Water intake (4L)               | [failed water intake ❌]   |
+| No Stupid Content      | [failed ❌]   |
+
+
+
+#### 💬 july 13
+> ## cooding , 9 hours 
+
+| Habit                            | Status |
+|---------------------------------|--------|
+| Bath                 | [failed ❌]   |
+| Water intake (4L)               | [✅]   |
+| No Stupid Content      | [failed ❌]   |
+
+
+
+
 
