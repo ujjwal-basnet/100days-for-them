@@ -8,16 +8,24 @@ IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my prev
 
 
 
-:
 ## 🧠 (Week 2: July 7 – July 14)  
 👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](https://github.com/ujjwal-basnet/My-Love-Letter/blob/main/Weekly-Logs/week2.md)
 
 | Area         | Tasks                                | Status               |
 |--------------|-------------------------------------|----------------------|
-| Book         | Complete MLOps book chapters         | ?           |
-| MLOps        | Finish house price CI/CD, Docker, K8s| ? |
-| GenAI Project| Full-stack AI project repository     | ?      |
+| Book         | Complete MLOps book chapters         | good  (60 percent of the book content is complete ✅✅✅ )         |
+| MLOps        | Finish house price CI/CD, Docker, K8s| zero (did't even touch) |
+| GenAI Project| Full-stack AI project repository     |  zero (did't even touch) |
 
+>unplaned (obviously every thing does't go to plan so here are someting i build or did which was unplaned for this week )
+
+## Build | https://github.com/ujjwal-basnet/server-location-visualization    ✅✅✅
+
+ ## Did two freelance project  ✅✅✅
+
+
+# week ends  here
+## (i know i am only doing, 8 or merly doing crossing 12 but i say its all about habbit , last week was even less than this so , next will i surely gona cross average 12 hours per day session , lets hope for the best   )
 
 
 
