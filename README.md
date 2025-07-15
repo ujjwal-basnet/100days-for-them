@@ -24,9 +24,9 @@ IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my prev
  ## Did two freelance project  ✅✅✅
 
 
-# week ends  here
-## (i know i am only doing, 8 or even less than per day, sometimes i cross 12 or 16 then next day i do like 3-4 hours lol .... but yeah i say its all about habbit , last week was even less than this so , next will i surely gona cross average 12 hours per day session , lets hope for the best   )
 
+## (i know i am only doing, 8 or even less than per day, sometimes i cross 12 or 16 then next day i do like 3-4 hours lol .... but yeah i say its all about habbit , last week was even less than this so , next will i surely gona cross average 12 hours per day session , lets hope for the best   )
+# week ends  here
 
 
 
@@ -40,7 +40,7 @@ IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my prev
 | Area         | Tasks                                  | Status |
 |--------------|-----------------------------------------|--------|
 | Recommender  | Hybrid system + pipeline + FastAPI      | 80% done    |
-| MLOps        | House price CI/CD, Docker, K8s          | failed complete this    |
+| MLOps         | House price CI/CD, Docker, K8s          | failed to complete this     |
 | LLM book  |  “LLMs for Production”  | failed      |
 
 🕒 Daily Goal: 10–18 hours  (3 days ✅, 4 other days faild 10-18 hours❌) this way this week ends
