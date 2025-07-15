@@ -17,7 +17,7 @@ IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my prev
 | MLOps        | Finish house price CI/CD, Docker, K8s| zero (did't even touch) |
 | GenAI Project| Full-stack AI project repository     |  zero (did't even touch) |
 
->unplaned (obviously every thing does't go to plan so here are someting i build or did which was unplaned for this week )
+># unplaned (obviously every thing does't go to plan so here are someting i build or did which was unplaned for this week )
 
 ## Build | https://github.com/ujjwal-basnet/server-location-visualization    ✅✅✅
 
