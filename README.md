@@ -25,7 +25,7 @@ IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my prev
 
 
 # week ends  here
-## (i know i am only doing, 8 or merly doing crossing 12 but i say its all about habbit , last week was even less than this so , next will i surely gona cross average 12 hours per day session , lets hope for the best   )
+## (i know i am only doing, 8 or even less than per day, sometimes i cross 12 or 16 then next day i do like 3-4 hours lol .... but yeah i say its all about habbit , last week was even less than this so , next will i surely gona cross average 12 hours per day session , lets hope for the best   )
 
 
 
