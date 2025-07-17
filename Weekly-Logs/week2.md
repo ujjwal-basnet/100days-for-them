@@ -77,6 +77,15 @@
 | No Stupid Content      | [failed ❌]   |
 
 
+#### 💬 july 14
+> ## cooding , 13 hours 
+
+| Habit                            | Status |
+|---------------------------------|--------|
+| Bath                 | [✅ ]   |
+| Water intake (4L)               | [✅]   |
+| No Stupid Content      | [✅]  |
+
 
 
 
