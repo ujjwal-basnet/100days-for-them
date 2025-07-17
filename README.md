@@ -1,10 +1,22 @@
 ## 10-18 hours Dailly  (dev dairy) 
 
-# (10–18 hrs/daily) Challenge serious stuff 
+# (8–18 hrs/daily) Challenge serious stuff 
 IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my previous semisters  and also i need to craft my resume , Write a research papers and be job ready within this 6 in Ai Field , so i decided to write my open dailry and log the progress and challenges
 
 
-# 🚀 (10–18 hrs/day) Dev Diary — AI Grind 2025
+# 🚀 (8–18 hrs/day) Dev Diary — AI Grind 2025
+## 🧠 (Week 3: July 15 – July 22)  
+👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](https://github.com/ujjwal-basnet/My-Love-Letter/blob/main/Weekly-Logs/week3.md)
+
+| Plan        | Tasks                                | Status               |
+|--------------|-------------------------------------|----------------------|
+| Book         | complete extra 150 pages | pending )         |
+| MLOps        | Finish house price CI/CD, Docker, K8s| pending |
+| llm  project| build recomdation system using llm|   |  working |
+| llm   project      | complete extra 150 pages | pending )         |
+
+
+
 
 
 
