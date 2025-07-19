@@ -1,4 +1,4 @@
-## 10-18 hours Dailly  (dev dairy) 
+## Pov : i never study or do any thing productive in saturday  just play games watch anime and sleep or chat with friends so in my personal tracking, I count a week as having 8 
 
 # (8–18 hrs/daily) Challenge serious stuff 
 IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my previous semisters  and also i need to craft my resume , Write a research papers and be job ready within this 6 in Ai Field , so i decided to write my open dailry and log the progress and challenges

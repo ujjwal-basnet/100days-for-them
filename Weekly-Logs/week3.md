@@ -9,3 +9,25 @@
 | Water intake (4L)               | [water intake ✅]   |
 | No Stupid Content      | [✅]   |
 
+
+### 🗓️   (july  16) 
+#### 💬 Cooding
+> coding ✅✅✅ , 8 hour , build recomdation system
+
+| Habit                            | Status |
+|---------------------------------|--------|
+| Bath                 | [✅ ]   |
+| Water intake (4L)               | [water intake ✅]   |
+| No Stupid Content      | [✅]   |
+
+
+
+### 🗓️   (july  17) 
+#### 💬 Cooding
+> coding ✅✅✅ , 9 hour finish deveoplemnt with llm course via data camp  (llm ,rag and some agent)
+| Habit                            | Status |
+|---------------------------------|--------|
+| Bath                 | [✅ ]   |
+| Water intake (4L)               | [water intake ✅]   |
+| No Stupid Content      | [❌]   |
+
