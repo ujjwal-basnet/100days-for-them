@@ -31,3 +31,33 @@
 | Water intake (4L)               | [water intake ✅]   |
 | No Stupid Content      | [❌]   |
 
+
+
+
+### 🗓️   (july  18) 
+#### 💬 Cooding
+> coding  zero ❌❌ 
+
+
+
+### 🗓️   (july  19) 
+#### 💬 Cooding
+> coding 3-4 hours only ❌❌❌❌ 
+
+
+
+
+
+
+### 🗓️   (july  20) 
+#### 💬 Cooding
+> cooding 9 hours ✅✅
+
+
+### 🗓️   (july  201) 
+#### 💬 Cooding
+> ❌❌ no ai/ml , fixed my previous projects 
+
+
+
+
