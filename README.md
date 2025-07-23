@@ -4,16 +4,33 @@
 IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my previous semisters  and also i need to craft my resume , Write a research papers and be job ready within this 6 in Ai Field , so i decided to write my open dailry and log the progress and challenges
 
 
+
+
 # 🚀 (8–18 hrs/day) Dev Diary — AI Grind 2025
+
+
+week 4: (i swear i will do 16 hrs , cuz i fail big in week 3 , stupid whenever i tried to push 12-16  hrs a  day then next 2-3 days dont feel like doing  anything other than doom scrolling  fuckkkkkkkkk this is what happen my in my first week and same again happen in week 3 , i can't take this shit , i need to upgrade , f** offffffffff  doom scrolling ,
+such shit alogithm i just want to focus on things that are valuabel to me, or else i am cooked and dead , 
+
+
+
+
+
+
+
+
+may be i just need to focus on   )
 ## 🧠 (Week 3: July 15 – July 22)  
 👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](https://github.com/ujjwal-basnet/My-Love-Letter/blob/main/Weekly-Logs/week3.md)
 
 | Plan        | Tasks                                | Status               |
 |--------------|-------------------------------------|----------------------|
-| Book         | complete extra 150 pages | pending )         |
-| MLOps        | Finish house price CI/CD, Docker, K8s| pending |
-| llm  project| build recomdation system using llm|   |  working |
-| llm   project      | complete extra 150 pages | pending )         |
+| Book         | complete extra 150 pages | zero book  )         |
+| MLOps        | Finish house price CI/CD, Docker, K8s| zero done |
+| llm  project| build recomdation system using llm|   |  yes i did , but never finish  |
+| llm   project      | complete extra 150 pages |  half done )         |
+
+(worst week  ,  stupid fuck❌❌❌❌)
 
 
 
